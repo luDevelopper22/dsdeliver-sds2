@@ -1,5 +1,4 @@
 import './styles.css';
-import { ReactComponent as Logo, ReactComponent } from './logo.svg';
 
 function StepsHeader() {
     return (
